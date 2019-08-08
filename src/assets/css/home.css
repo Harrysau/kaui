@@ -1,3 +1,8 @@
 .home-height {
-    height: calc(100vh - 10rem);
+  height: calc(100vh - 10rem);
+}
+
+.cuson {
+  z-index: -1;
+  margin-top: -10rem;
 }
